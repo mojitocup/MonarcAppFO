@@ -21,7 +21,7 @@ return [
             'orm_default' => [
                 'params' => [
                     'host' => 'localhost',
-                    'user' => 'sqlmonarcuser',
+                    'user' => 'monarc',
                     'password' => 'password',
                     'dbname' => 'monarc_common',
                 ],
@@ -29,7 +29,7 @@ return [
             'orm_cli' => [
                 'params' => [
                     'host' => 'localhost',
-                    'user' => 'sqlmonarcuser',
+                    'user' => 'monarc',
                     'password' => 'password',
                     'dbname' => 'monarc_cli',
                 ],
